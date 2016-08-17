@@ -1,3 +1,40 @@
 h1 {
   color: salmon;
 }
+
+body {
+  background-color: #EDEFEC;
+  color: #58595A;
+  text-align: center;
+}
+
+h1 {
+  color: #57585C;
+  text-align: center;
+}
+
+h2 {
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  color: white;
+  font-family: arial;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  border-radius: 2px;
+}
+
+.img {
+  margin: 10px;
+  position: relative;
+}
+
+button {
+  margin: 5px;
+  border-color: white;
+  padding: 10px 80px 10px 80px;
+  font-family: sans-serif;
+}
